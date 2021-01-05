@@ -1,0 +1,71 @@
+nav-link 
+color: rgba(255,255,255,.5);
+
+
+
+navbar-brand
+color: #fff;
+
+
+background navbar    
+background-color: #343a40
+
+
+
+
+
+theme:
+
+primary
+#880e4f
+
+p-light / surface clr
+#bc477b
+
+p-dark
+#560027
+
+text on primary
+#ffffff ///  #F8BBD0
+
+secondary
+#f8bbd0
+
+s-light
+#ffeeff
+
+s-dark
+#c48b9f
+
+
+text on secondary
+#000000
+
+
+
+
+
+
+
+
+
+Primary
+#c51162
+
+P — Light
+#fd558f
+
+P — Dark
+#8e0038
+
+Secondary
+#880e4f
+
+S — Light
+#bc477b
+
+S — Dark
+#560027
+
+text on p & s
+#ff
