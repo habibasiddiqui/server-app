@@ -2,14 +2,21 @@
     box-sizing: border-box;
 }
 
+.navbar{
+    /* primary-clr */
+    background-color: #c51162!important; 
+}
+
 .navbar .navbar-brand{
     font-size: x-large;
     color: #ffffff
 }
-.navbar{
-    /* primary-clr */
-    background-color: #c51162!important; 
-  }
+
+.navbar-toggler {
+    color: #560027;
+    border-color: #560027;
+}
+
 .navbar-nav .nav-item .nav-link {
     color: #FCE4EC;
     font-size: larger;
